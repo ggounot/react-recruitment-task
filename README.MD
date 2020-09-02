@@ -8,9 +8,9 @@ Your job is to code an app with posts of users with ability to manage posts and 
 ## Tech stack:
 * API: [API DOCS](https://jsonplaceholder.typicode.com/)
 * Starter: [Create react app starter](https://github.com/facebook/create-react-app)
-* State Managment: [Redux](https://github.com/reduxjs/react-redux)
+* State Managment: [React Context API](https://github.com/reduxjs/react-redux)
 * Routing: [React-router](https://github.com/ReactTraining/react-router)
-* Middleware: [redux-thunk](https://github.com/reduxjs/redux-thunk)
+* Middleware: We leave it to you if you want to use one
 
 ## Screens:
 * `Homepage` 
@@ -46,7 +46,7 @@ Your job is to code an app with posts of users with ability to manage posts and 
     *   Save will connect with API and add Comment/Post to the list
 
 ## Must-have:
-1. React &amp; Redux
+1. React &amp; React Context
 2. Connection with API
 3. Usage of react-router for multiple pages
 4. Loaders when you wait for the data
